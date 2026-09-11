@@ -29,7 +29,7 @@ A continuación se presentan los enlaces directos a las simulaciones duales en v
 ## Estructura del Repositorio
 * `/Nodo_A_Emisor`: Contiene `sketch.ino`, `crypto.h` y `protocol.h` del nodo emisor.
 * `/Nodo_B_Receptor`: Contiene `sketch.ino`, `crypto.h` y `protocol.h` del nodo receptor.
-* `/Documentacion`: Contiene los diagramas de flujo y el documento final de investigación (formato IEEE).
+* `/Documentacion`: Contiene los diagramas de flujo y el documento final de investigación.
 
 ## Instrucciones de Uso
 1. Abrir los enlaces de Wokwi correspondientes al Nodo A y Nodo B
