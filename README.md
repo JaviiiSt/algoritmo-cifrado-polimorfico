@@ -23,8 +23,8 @@ Este repositorio contiene el código comentado y la documentación para un siste
 
 ## Simulaciones en Wokwi
 A continuación se presentan los enlaces directos a las simulaciones duales en vivo:
-* **Nodo A (Emisor):** [Pega aquí el enlace del Wokwi Emisor]
-* **Nodo B (Receptor):** [Pega aquí el enlace del Wokwi Receptor]
+* **Nodo A (Emisor):** https://wokwi.com/projects/474900900195298305
+* **Nodo B (Receptor):** https://wokwi.com/projects/474900922194428929
 
 ## Estructura del Repositorio
 * `/Nodo_A_Emisor`: Contiene `sketch.ino`, `crypto.h` y `protocol.h` del nodo emisor.
