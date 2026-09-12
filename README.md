@@ -32,9 +32,10 @@ A continuación se presentan los enlaces directos a las simulaciones duales en v
 * `/Documentacion`: Contiene los diagramas de flujo y el documento final de investigación.
 
 ## Instrucciones de Uso
-1. Abrir los enlaces de Wokwi correspondientes al Nodo A y Nodo B
-2. Iniciar la simulación en ambos proyectos.
-3. Observar la consola serial: el emisor mostrará el envío de datos cifrados, mientras que el receptor mostrará el descifrado en tiempo real.
+1. Abrir en pestañas independientes los enlaces de Wokwi para el Nodo Emisor (Nodo A) y el Nodo Receptor (Nodo B).
+2. Iniciar primero el nodo receptor: Presionar el botón de inicio (Play) en el Receptor y esperar a que la consola confirme la conexión WiFi y la suscripción al tópico MQTT.
+3. Iniciar el nodo emisor: Presionar el botón de inicio (Play) en el Emisor para comenzar la transmisión de la secuencia del protocolo.
+4. Observar cómo el emisor cifra el contenido y envía las tramas serializadas, mientras el receptor deserializa y descifra el texto en claro en tiempo real.
 
 ## Diagramas de Flujo
 *(Nota: Para que estas imágenes se vean, debes subir tus diagramas a la carpeta Documentacion con estos nombres exactos, o cambiar los nombres aquí)*
