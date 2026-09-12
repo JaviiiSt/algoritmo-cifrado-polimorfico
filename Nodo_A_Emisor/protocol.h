@@ -17,7 +17,7 @@ enum NodeState : uint8_t {//Estados del nodo
   STATE_TERMINATED   
 };
 
-#define MAX_PAYLOAD_SIZE 32   
+#define MAX_PAYLOAD_SIZE 64   
 
 struct Message { //Estructura del mesnaje 
   uint8_t     nodeID;                    
