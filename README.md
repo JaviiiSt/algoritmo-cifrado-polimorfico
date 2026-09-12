@@ -36,9 +36,3 @@ A continuación se presentan los enlaces directos a las simulaciones duales en v
 2. Iniciar primero el nodo receptor: Presionar el botón de inicio (Play) en el Receptor y esperar a que la consola confirme la conexión WiFi y la suscripción al tópico MQTT.
 3. Iniciar el nodo emisor: Presionar el botón de inicio (Play) en el Emisor para comenzar la transmisión de la secuencia del protocolo.
 4. Observar cómo el emisor cifra el contenido y envía las tramas serializadas, mientras el receptor deserializa y descifra el texto en claro en tiempo real.
-
-## Diagramas de Flujo
-*(Nota: Para que estas imágenes se vean, debes subir tus diagramas a la carpeta Documentacion con estos nombres exactos, o cambiar los nombres aquí)*
-
-![Diagrama de Flujo Emisor](./Documentacion/diagrama_emisor.png)
-![Diagrama de Flujo Receptor](./Documentacion/diagrama_receptor.png)
